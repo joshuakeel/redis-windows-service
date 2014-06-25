@@ -16,6 +16,8 @@ Where:
 *%configpath%* -- path to redis configuration file, ex. `E:\Redis\redis.conf`;  
 To understand another properties, like `start` and `DisplayName`, read article [How to create a Windows service by using Sc.exe](http://support.microsoft.com/kb/251192).
 
+The [Visual Studio 2012 C++ Redistributable](http://www.microsoft.com/en-us/download/details.aspx?id=30679#) should also be installed if built with new versions of Visual Studio.
+
 ##Uninstall service##
 To uninstall service, simply execute:
 
